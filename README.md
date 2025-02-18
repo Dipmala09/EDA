@@ -1,5 +1,4 @@
-# ML
-Case Study: Improvisation of X Education’s Lead Conversion Rate
+# Case Study: Improvisation of X Education’s Lead Conversion Rate
 
 Let us discuss how we are trying to improve at X Education’s lead conversion rates by creating a model which predicts the probabilities of converting an inquiry into admission to the point of actually converting it into a sale. Our aim is to discover the main predictors of successful lead conversion and develop programs that help sales personnel maximize their efforts during different phases of the business period.
 
